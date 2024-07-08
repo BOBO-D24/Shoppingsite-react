@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shoppingsite-react/shopping-site/static/css/main.95f729b6.css",
+    "main.js": "/Shoppingsite-react/shopping-site/static/js/main.2bf0a870.js",
+    "static/js/453.5b1cc0ef.chunk.js": "/Shoppingsite-react/shopping-site/static/js/453.5b1cc0ef.chunk.js",
+    "static/media/3.jpg": "/Shoppingsite-react/shopping-site/static/media/3.3e63bf39ee9fa229004f.jpg",
+    "static/media/7.jpg": "/Shoppingsite-react/shopping-site/static/media/7.656953abc915dd12c4e8.jpg",
+    "static/media/2.jpg": "/Shoppingsite-react/shopping-site/static/media/2.f54630ee0c5df1381df1.jpg",
+    "static/media/8.jpg": "/Shoppingsite-react/shopping-site/static/media/8.f7b83aba9606de0aa187.jpg",
+    "static/media/6.jpg": "/Shoppingsite-react/shopping-site/static/media/6.7201663f61a31f39c4a8.jpg",
+    "static/media/1.jpg": "/Shoppingsite-react/shopping-site/static/media/1.5e0765acce1df3ffd947.jpg",
+    "static/media/9.jpg": "/Shoppingsite-react/shopping-site/static/media/9.6c2bf0469e08a3a0e6db.jpg",
+    "static/media/5.jpg": "/Shoppingsite-react/shopping-site/static/media/5.6b3ec2e48bc3513ca9e0.jpg",
+    "static/media/4.jpg": "/Shoppingsite-react/shopping-site/static/media/4.70a2a199ed72e4a15ef1.jpg",
+    "index.html": "/Shoppingsite-react/shopping-site/index.html",
+    "main.95f729b6.css.map": "/Shoppingsite-react/shopping-site/static/css/main.95f729b6.css.map",
+    "main.2bf0a870.js.map": "/Shoppingsite-react/shopping-site/static/js/main.2bf0a870.js.map",
+    "453.5b1cc0ef.chunk.js.map": "/Shoppingsite-react/shopping-site/static/js/453.5b1cc0ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f729b6.css",
+    "static/js/main.2bf0a870.js"
+  ]
+}
